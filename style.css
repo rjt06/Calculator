@@ -66,6 +66,13 @@ ion-icon {
 
 /*-------------------------------*/
 
+main {
+position: absolute;
+left: 0;
+right: 0;
+bottom: 2rem;
+}
+
 .input-box {
   max-width: 37rem;
   width: 90%;
@@ -197,4 +204,5 @@ button:hover, button:active {
   html {
     font-size: 9px;
   }
+
 }
